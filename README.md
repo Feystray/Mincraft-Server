@@ -1,4 +1,4 @@
-# How to use Your Android Phone as Router to Host a Minecraft Server
+# How to use Your Android Phone as Router to Host a Minecraft Server if you don't have wifi card
 
 ------
 
